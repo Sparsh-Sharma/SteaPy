@@ -1,8 +1,11 @@
 # SteaPy
 2D Boundary Element Method for steady flows (popularly known as Panel Method)
 
-# Installing SteaPy package
+# Disclaimer: 
+This module is still heavily in development, and might break what you're working on
 
+# Installing SteaPy package
+It is recommended to have Anaconda installed
 Prequisite
 ----------
 

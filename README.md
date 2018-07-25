@@ -1,5 +1,5 @@
 # SteaPy
-2D Boundary Element Method for steady flows (popularly known as Panel Method)
+2D Euler solver for steady flows
 
 # Disclaimer: 
 This module is still heavily in development, and might break what you're working on
